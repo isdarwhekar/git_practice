@@ -1,0 +1,2 @@
+Hello,
+Just another sample file for practising various Git commands.

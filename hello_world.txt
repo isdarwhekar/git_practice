@@ -1,0 +1,2 @@
+Hi!
+This is my attempt at understanding the functioning of Git indepth.
