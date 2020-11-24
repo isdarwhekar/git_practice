@@ -1,2 +1,4 @@
 Hi!
-This is my attempt at understanding the functioning of Git indepth.
+This is my attempt at understanding the functioning of Git indepth
+Change 1
+.
